@@ -8,7 +8,7 @@
 
 Nexon Open API를 활용하여 실제 메이플스토리 데이터를 가지고 분석 진행
 
-![image.png](attachment:edda3936-322f-4a3b-bd75-890757d36876:image.png)
+<img width="963" height="508" alt="image" src="https://github.com/user-attachments/assets/89f66898-b11f-41b0-a5bd-fdbe2cd5825b" />
 
 - 2025-04-27 기준 Lv280 카데나 유저가 359명이었기에 카데나, 보우마스터 모두 350개씩 데이터를 추출하였다
 
@@ -27,7 +27,7 @@ Nexon Open API를 활용하여 실제 메이플스토리 데이터를 가지고 
 
 ## 1. 성장량 비교 (t-test 결과)
 
-![image.png](attachment:161d61dd-fceb-458a-a00c-7a09d9373ff4:image.png)
+<img width="1040" height="278" alt="image" src="https://github.com/user-attachments/assets/3215b10a-784d-44a2-bd55-2dbd097c8af1" />
 
 귀무 가설 : 보우마스터와 카데나의 성장속도는 차이가 없다
 
@@ -44,19 +44,18 @@ Nexon Open API를 활용하여 실제 메이플스토리 데이터를 가지고 
 
 - **Boxplot**: 보우마스터가 카데나에 비해 성장량 중앙값이 높고, 분포도 넓음
 
-![image.png](attachment:63a0c9b5-4560-46e6-b2fc-815b52a8c893:image.png)
+<img width="844" height="639" alt="image" src="https://github.com/user-attachments/assets/7c8603af-9722-4ac5-b1d6-6e3f53a586bf" />
 
 - **Histogram, Scatter Plot**: 보우마스터 유저는 성장량이 큰 구간에 더 많이 분포하고 있음
 
-![image.png](attachment:bf028c4f-4466-4c58-8c43-fda21700845d:image.png)
+<img width="858" height="1068" alt="image" src="https://github.com/user-attachments/assets/0b4a0f0e-d859-4a98-9c22-a50063e31dde" />
 
-![image.png](attachment:f5ffa793-d9c7-49e5-82ef-8e61371ae8d4:image.png)
 
 ---
 
 ## 추가 분석. 캐릭터 생성일 분석
 
-![image.png](attachment:85043ff4-1520-4694-8317-8469061bd4ff:image.png)
+<img width="964" height="495" alt="image" src="https://github.com/user-attachments/assets/b794b2b4-4f6c-4519-bcbf-43adb865fac6" />
 
 - 2024년 말 보우마스터와 카네다 모두 생성 수가 급증하였다.
 - 보우마스터는 생성량이 전체적으로 카데나보다 적다가 근래들어 특히 인기가 많아졌다.
